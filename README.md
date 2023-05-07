@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project analyzes sales data to answer interesting business questions and provide insights to the management team. The data is from an online company's sales database and includes information on customers, products, orders, and transactions.
+This project analyzes sales data to answer interesting business questions and provide insights to the management team. The data is from a company's sales database and includes information on customers, products, orders, and transactions.
 
 The project includes exploratory data analysis, data cleaning and preparation, data visualization, and machine learning techniques such as market basket analysis.
 
