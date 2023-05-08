@@ -5,7 +5,7 @@
 
 This project analyzes sales data to answer interesting business questions and provide insights to the management team. The data is from a company's sales database and includes information on customers, products, orders, and transactions.
 
-The project includes exploratory data analysis, data cleaning and preparation, data visualization, and machine learning techniques such as market basket analysis.
+The project includes exploratory data analysis, data cleaning and preparation, data visualization, and market basket analysis using a priori algorithm and other techniques.
 
 ## Objectives
 
@@ -14,7 +14,7 @@ The main objectives of this project are:
 - Identify the top-selling products by category and region
 - Determine the best sales month (seasonality)
 - Analyze best sales hours along the day
-- Perform market basket analysis to identify product associations and cross-selling opportunities
+- Perform market basket analysis to identify product associations and cross-selling opportunities. 
 
 ## Data Sources
 
@@ -38,10 +38,10 @@ The project uses the following methodology:
 
 The analysis of the sales data has revealed the following insights:
 
-- The top-selling products are in the electronics and home appliances categories, with laptops and refrigerators being the most popular products
-- The most profitable customers are in the high-income bracket and live in urban areas, with a preference for online purchases
-- Sales trends show a peak in the holiday season, with a decline in the first quarter of the year
-- Market basket analysis has identified several product associations, such as laptops and software, and cross-selling opportunities, such as offering a discount on printers with the purchase of a laptop
+- The top-selling products are charging cables, wired headphones and between more expensive products we can mention 27 in Monitor and iphone
+- The most profitable customers are in San Francisco
+- Sales trends show a peak in Octuber, November and above all December, with a decline in january-february and june-july. The best selling hours are at 12 and sunset.
+- Market basket analysis has identified several product associations, such as ('iPhone', 'Lightning Charging Cable'), ('Google Phone', 'USB-C Charging Cable'). This opens opportunity for offering the associate product and even evaluate adding a discount to it.
 
 ## Conclusion
 
